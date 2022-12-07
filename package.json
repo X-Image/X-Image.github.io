@@ -27,7 +27,7 @@
     "babel-preset-react-hmre": "^1.1.1",
     "cross-env": "^1.0.7",
     "eventsource-polyfill": "^0.9.6",
-    "express": "^4.13.3",
+    "express": "^4.18.2",
     "rimraf": "^2.4.3",
     "standard": "^6.0.8",
     "webpack": "^1.12.9",
